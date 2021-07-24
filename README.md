@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshitadaswani.
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning levelZero course with Tanay Pratap at NeogCamp.
-- 🌱 I'm an enthusiastic learner willing to grow and be updated with the technology.
+- 🌱 I'm an inquisitive learner willing to grow and be updated with the technology.
 - 📫 How to reach me hbdaswani@gmail.com.
 
 <!---
